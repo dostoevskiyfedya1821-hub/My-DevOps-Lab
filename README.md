@@ -1,2 +1,2 @@
 # My-DevOps-Lab
-Лабораторная работа по DevOps
+Этот проект посвящён Azure DevOps и DevOps практикам.
